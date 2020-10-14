@@ -1,5 +1,3 @@
-**Spring framework road map**
-
 # 1. Java SE
 -	OOP.
 -	Exception Handling.
